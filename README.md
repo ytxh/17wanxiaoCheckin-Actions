@@ -54,7 +54,7 @@ if post_dict:
     
     # 修改地址......
 ```
-
+  
 
 
 **3、我们学校要求打卡的时间不一样，这个自动运行的时间该怎么修改？**
@@ -188,7 +188,7 @@ def get_post_json(self, token):
    
 
    ![](https://cdn.jsdelivr.net/gh/ReaJason/17wanxiaoCheckin-Actions/Pictures/modify_readme.png)
-
+    
    
 
    ![](https://cdn.jsdelivr.net/gh/ReaJason/17wanxiaoCheckin-Actions/Pictures/end_modify.png)
@@ -201,7 +201,7 @@ def get_post_json(self, token):
 
    ![](https://cdn.jsdelivr.net/gh/ReaJason/17wanxiaoCheckin-Actions/Pictures/check_status.png)
 
-   
+          
 
    ![](https://cdn.jsdelivr.net/gh/ReaJason/17wanxiaoCheckin-Actions/Pictures/end_check.png)
 
